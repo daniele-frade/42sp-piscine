@@ -25,3 +25,14 @@ This is a repository with the coding developed during the [42 São Paulo](https:
 ## Exercises
 
 The list below presents some of the exercises performed while in the Piscine.
+
+- List C 00:
+  - ex00: [ft_putchar](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex00_ft_putchar)
+  - ex01: [ft_print_alphabet](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex01_ft_print_alphabet)
+  - ex02: [ft_print_reverse_alphabet](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex02_ft_print_reverse_alphabet)
+  - ex03: [ft_print_numbers](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex03_ft_print_numbers)
+  - ex04: [ft_is_negative](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex04_ft_is_negative)
+  - ex05: [ft_print_comb](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex05_ft_print_comb)
+  - ex06: [ft_print_comb2](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex06_ft_print_comb2)
+  - ex07: [ft_putnbr](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex07_putnbr)
+  - ex08: [ft_print_combn]
