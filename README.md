@@ -36,3 +36,14 @@ The list below presents some of the exercises performed while in the Piscine.
   - ex06: [ft_print_comb2](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex06_ft_print_comb2)
   - ex07: [ft_putnbr](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex07_ft_putnbr)
   - ex08: [ft_print_combn](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex08_ft_print_combn)
+
+- List C 01:
+  - ex00: [ft_ft](https://github.com/daniele-frade/42sp-piscine/tree/main/c01/ex00_ft_ft)
+  - ex01: [ft_ultimate_ft](https://github.com/daniele-frade/42sp-piscine/tree/main/c01/ex01_ft_ultimate_ft)
+  - ex02: [ft__swap](https://github.com/daniele-frade/42sp-piscine/tree/main/c01/ex02_ft_swap)
+  - ex03: [ft_div_mod](https://github.com/daniele-frade/42sp-piscine/tree/main/c01/ex03_ft_div_mod)
+  - ex04: [ft_ultimate_div_mod](https://github.com/daniele-frade/42sp-piscine/tree/main/c01/ex04_ft_ultimate_div_mod)
+  - ex05: [ft_putstr](https://github.com/daniele-frade/42sp-piscine/tree/main/c01/ex05_ft_putstr)
+  - ex06: [ft_strlen](https://github.com/daniele-frade/42sp-piscine/tree/main/c01/ex06_ft_strlen)
+  - ex07: [ft_rev_int_tab](https://github.com/daniele-frade/42sp-piscine/tree/main/c01/ex07_ft_rev_int_tab)
+  - ex08: [ft_sort_int_tab](https://github.com/daniele-frade/42sp-piscine/tree/main/c01/ex08_ft_sort_int_tab)
