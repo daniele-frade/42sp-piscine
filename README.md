@@ -62,3 +62,11 @@ The list below presents some of the exercises performed while in the Piscine.
   - ex10: [ft_strlcpy](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex10_ft_strlcpy)
   - ex11: [ft_putstr_non_printable](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex11_ft_putstr_non_printable)
   - ex12: [ft_print_memory](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex12_ft_print_memory)
+
+- List C 03:
+  - ex00: [ft_strcmp](https://github.com/daniele-frade/42sp-piscine/tree/main/c03/ex00_ft_strcmp)
+  - ex01: [ft_strncmp](https://github.com/daniele-frade/42sp-piscine/tree/main/c03/ex01_ft_strncmp)
+  - ex02: [ft_strcat](https://github.com/daniele-frade/42sp-piscine/tree/main/c03/ex02_ft_strcat)
+  - ex03: [ft_strncat](https://github.com/daniele-frade/42sp-piscine/tree/main/c03/ex03_ft_strncat)
+  - ex04: [ft_strstr](https://github.com/daniele-frade/42sp-piscine/tree/main/c03/ex04_ft_strstr)
+  - ex05: [ft_strlcat](https://github.com/daniele-frade/42sp-piscine/tree/main/c03/ex05_ft_strlcat)
