@@ -47,3 +47,18 @@ The list below presents some of the exercises performed while in the Piscine.
   - ex06: [ft_strlen](https://github.com/daniele-frade/42sp-piscine/tree/main/c01/ex06_ft_strlen)
   - ex07: [ft_rev_int_tab](https://github.com/daniele-frade/42sp-piscine/tree/main/c01/ex07_ft_rev_int_tab)
   - ex08: [ft_sort_int_tab](https://github.com/daniele-frade/42sp-piscine/tree/main/c01/ex08_ft_sort_int_tab)
+
+- List C 02:
+  - ex00: [ft_strcpy](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex00_ft_strcpy)
+  - ex01: [ft_strncpy](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex01_ft_strncpy)
+  - ex02: [ft_str_is_alpha](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex02_ft_str_is_alpha)
+  - ex03: [ft_str_is numeric](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex03_ft_str_is_numeric)
+  - ex04: [ft_str_is lowercase](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex04_ft_str_is_lowercase)
+  - ex05: [ft_str_is uppercase](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex05_ft_str_is_uppercase)
+  - ex06: [ft_str_is printable](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex06_ft_str_is_printable)
+  - ex07: [ft_str_strupcase](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex07_ft_strupcase)
+  - ex08: [ft_str_strlowcase](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex08_ft_strlowcase)
+  - ex09: [ft_str_strcapitalize](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex09_ft_strcapitalize)
+  - ex10: [ft_strlcpy](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex10_ft_strlcpy)
+  - ex11: [ft_putstr_non_printable](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex11_ft_putstr_non_printable)
+  - ex12: [ft_print_memory](https://github.com/daniele-frade/42sp-piscine/tree/main/c02/ex12_ft_print_memory)
