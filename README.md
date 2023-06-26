@@ -34,5 +34,5 @@ The list below presents some of the exercises performed while in the Piscine.
   - ex04: [ft_is_negative](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex04_ft_is_negative)
   - ex05: [ft_print_comb](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex05_ft_print_comb)
   - ex06: [ft_print_comb2](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex06_ft_print_comb2)
-  - ex07: [ft_putnbr](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex07_putnbr)
-  - ex08: [ft_print_combn]
+  - ex07: [ft_putnbr](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex07_ft_putnbr)
+  - ex08: [ft_print_combn](https://github.com/daniele-frade/42sp-piscine/tree/main/c00/ex08_ft_print_combn)
