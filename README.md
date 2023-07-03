@@ -78,3 +78,11 @@ The list below presents some of the exercises performed while in the Piscine.
   - ex03: [ft_atoi](https://github.com/daniele-frade/42sp-piscine/tree/main/c04/ex03_ft_atoi)
   - ex04: [ft_putnbr_base](https://github.com/daniele-frade/42sp-piscine/tree/main/c04/ex04_ft_putnbr_base)
   - ex05: [ft_atoi_base](https://github.com/daniele-frade/42sp-piscine/tree/main/c04/ex05_ft_atoi_base)
+
+- List C 05:
+
+- List C 06:
+  - ex00: [ft_print_program_name](https://github.com/daniele-frade/42sp-piscine/tree/main/c06/ex00_ft_print_program_name)
+  - ex01: [ft_print_params](https://github.com/daniele-frade/42sp-piscine/tree/main/c06/ex01_ft_print_params)
+  - ex02: [ft_rev_params](https://github.com/daniele-frade/42sp-piscine/tree/main/c06/ex02_ft_rev_params)
+  - ex03: [ft_sort_params](https://github.com/daniele-frade/42sp-piscine/tree/main/c06/ex03_ft_sort_params)
