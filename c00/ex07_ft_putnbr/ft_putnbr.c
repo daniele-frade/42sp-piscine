@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putnbr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: danielefrade <danielefrade@student.42.f    +#+  +:+       +#+        */
+/*   By: dfrade <dfrade@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/25 17:16:20 by danielefrad       #+#    #+#             */
-/*   Updated: 2023/06/25 17:51:35 by danielefrad      ###   ########.fr       */
+/*   Updated: 2023/08/08 08:48:59 by dfrade           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,7 +23,7 @@ void	ft_putnbr(int nb)
 	{
 		write(1, "-2147483648", 11);
 	}
-	else if (nb >= 0 && nb <= 10)
+	else if (nb >= 0 && nb <= 9)
 	{
 		ft_putchar(nb + 48);
 	}
@@ -41,6 +41,6 @@ void	ft_putnbr(int nb)
 
 // int	main()
 // {
-// 	ft_putnbr(2147);
+// 	ft_putnbr(3);
 // 	return (0);
 // }
