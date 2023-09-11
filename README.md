@@ -1,4 +1,4 @@
-# Piscine @ 42sp
+# 42sp Piscine
 
 This is a repository with the coding developed during the [42 São Paulo](https://www.42sp.org.br/) Piscine, a 26-day immersion in C programming, from May 22nd to June 16th, 2023.
 
@@ -80,6 +80,7 @@ The list below presents some of the exercises performed while in the Piscine.
   - ex05: [ft_atoi_base](https://github.com/daniele-frade/42sp-piscine/tree/main/c04/ex05_ft_atoi_base)
 
 - List C 05:
+  - Work in progress...
 
 - List C 06:
   - ex00: [ft_print_program_name](https://github.com/daniele-frade/42sp-piscine/tree/main/c06/ex00_ft_print_program_name)
