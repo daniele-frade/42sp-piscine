@@ -1,10 +1,14 @@
 # 42sp Piscine
 
-This is a repository with the coding developed during the [42 São Paulo](https://www.42sp.org.br/) Piscine, a 26-day immersion in C programming, from May 22nd to June 16th, 2023.
+This is a repository with the coding developed during the [42sp](https://www.42sp.org.br/) Piscine, a 26-day immersion in C programming, from May 22nd to June 16th, 2023.
 
 ## 42 School
 
-[42](https://42.fr/en/homepage/) is a renowned programming school that offers a unique and intensive learning experience and follows a peer-to-peer learning model, where students engage in collaborative and project-based learning without traditional teachers or lectures, at no cost. The curriculum focuses on practical programming skills and problem-solving abilities, with a strong emphasis on self-directed learning and hands-on projects. The 42 course is available to those who are accepted through its selection process. The "Piscine", a 26-day immersion in C programming, serves as the final phase of the selection process to become a student at 42.
+[42](https://www.42network.org/) is a renowned programming school that offers a unique and intensive learning experience and follows a peer-to-peer learning model, where students engage in collaborative and project-based learning without traditional teachers or lectures, at no cost. The curriculum focuses on practical programming skills and problem-solving abilities, with a strong emphasis on self-directed learning and hands-on projects. 
+
+The 42 cursus is available to those who are accepted through its selection process. The "Piscine", a 26-day immersion in C programming, serves as the final phase of the selection process to become a student at 42.
+
+For additional information regarding 42's selection process, known as "Piscine," please visit the website [42sp](https://www.42sp.org.br/) or [42 Network](https://www.42network.org/).
 
 ## Skills developed at Piscine
 
